@@ -1,0 +1,24 @@
+{
+  "name": "webpack-try",
+  "version": "1.0.0",
+  "description": "Try webpack",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganjarsetia/webpack-try.git"
+  },
+  "keywords": [
+    "webpack",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Ganjar Setia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganjarsetia/webpack-try/issues"
+  },
+  "homepage": "https://github.com/ganjarsetia/webpack-try#readme"
+}
