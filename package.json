@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ganjarsetia/webpack-try/issues"
   },
-  "homepage": "https://github.com/ganjarsetia/webpack-try#readme"
+  "homepage": "https://github.com/ganjarsetia/webpack-try#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
